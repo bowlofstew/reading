@@ -4,7 +4,7 @@ This repository serves as a tracking source for material that have, am, or will 
 
 ## [Books](./books/README.md)
 
-## [Articles)[./articles/README.md)
+## [Articles](./articles/README.md)
 
 ## Author(s)
 
