@@ -2,7 +2,7 @@
 
 ## Read
 
-  * [2019](./2019/README.md]
+  * [2019](./2019/README.md)
 
 ## Author(s)
 
